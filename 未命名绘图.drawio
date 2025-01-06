@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2280" dy="2047" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="1977" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JyKCz9A21-HAHrsIMus4-121" value="text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="78.75" y="-264" width="60" height="26" as="geometry" />
+          <mxGeometry x="79.75" y="-264" width="60" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JyKCz9A21-HAHrsIMus4-128" value="可学习嵌入编码&lt;br&gt;使用均值为0标准差为&lt;br&gt;隐藏层的平方根的倒数&lt;br&gt;为正态分布进行初始化，&lt;br&gt;防止梯度消失，爆炸" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="224" y="-426.75" width="140" height="147.5" as="geometry" />
@@ -90,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JyKCz9A21-HAHrsIMus4-148" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="695" y="-420" width="60" height="30" as="geometry" />
+          <mxGeometry x="691" y="-402" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ANsRWZRk_wn6D99G8DN_-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="378.31" y="-340" width="840" height="840" as="geometry" />
@@ -171,7 +171,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ANsRWZRk_wn6D99G8DN_-45" value="MatMul" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=default;labelBorderColor=#F8CECC;labelBackgroundColor=#F8CECC;strokeColor=#F8CECC;fillColor=#F8CECC;" parent="1" vertex="1">
-          <mxGeometry x="609" y="-208" width="142" height="79" as="geometry" />
+          <mxGeometry x="609" y="-205" width="142" height="79" as="geometry" />
         </mxCell>
         <mxCell id="ANsRWZRk_wn6D99G8DN_-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ANsRWZRk_wn6D99G8DN_-9" target="ANsRWZRk_wn6D99G8DN_-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
